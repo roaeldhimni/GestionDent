@@ -7,7 +7,7 @@ https://github.com/roaeldhimni/GestionDent/assets/128164812/7ad09e46-f73d-4e2a-9
 ### Lien Déploiement
 Pour s'authentifier en tant qu'administrateur (création des professeurs) :
 Email : admin@admin.com
-Mot de passe : admin
+Mot de passe : admin@admin
 
 https://dent-production.up.railway.app/signin
 ### Lien DockerHub
